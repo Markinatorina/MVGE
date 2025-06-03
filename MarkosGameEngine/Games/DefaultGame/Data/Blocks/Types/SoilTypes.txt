@@ -1,0 +1,6 @@
+LoamDry
+LoamGrass
+GravelDry
+GravelGrass
+PodzolDry
+PodzolGrass
