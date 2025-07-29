@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MarkosGameEngine.Graphics
+namespace MVGE.Graphics
 {
     internal class ShaderProgram
     {

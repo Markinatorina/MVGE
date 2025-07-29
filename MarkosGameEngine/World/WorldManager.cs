@@ -1,5 +1,5 @@
-﻿using MarkosGameEngine.Graphics;
-using MarkosGameEngine.World.Terrain;
+﻿using MVGE.Graphics;
+using MVGE.World.Terrain;
 using OpenTK.Mathematics;
 using System;
 using System.Collections.Generic;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MarkosGameEngine.World
+namespace MVGE.World
 {
     public enum RenderDetail
     {

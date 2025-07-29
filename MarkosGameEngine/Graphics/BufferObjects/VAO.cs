@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MarkosGameEngine.Graphics.BufferObjects
+namespace MVGE.Graphics.BufferObjects
 {
     internal class VAO
     {

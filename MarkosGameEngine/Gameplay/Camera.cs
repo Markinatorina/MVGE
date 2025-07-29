@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MarkosGameEngine.Gameplay
+namespace MVGE.Gameplay
 {
     internal class Camera
     {

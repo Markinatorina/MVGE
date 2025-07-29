@@ -1,6 +1,6 @@
-﻿using MarkosGameEngine.Graphics;
-using MarkosGameEngine.Graphics.Terrain;
-using MarkosGameEngine.Tools;
+﻿using MVGE.Graphics;
+using MVGE.Graphics.Terrain;
+using MVGE.Tools;
 using Newtonsoft.Json;
 using OpenTK.Mathematics;
 using System;
@@ -11,7 +11,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MarkosGameEngine.World.Terrain
+namespace MVGE.World.Terrain
 {
     public struct BlockData
     {

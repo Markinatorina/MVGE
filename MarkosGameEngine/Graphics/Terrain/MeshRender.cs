@@ -1,5 +1,5 @@
-﻿using MarkosGameEngine.Graphics.BufferObjects;
-using MarkosGameEngine.World.Terrain;
+﻿using MVGE.Graphics.BufferObjects;
+using MVGE.World.Terrain;
 using OpenTK.Graphics.OpenGL4;
 using OpenTK.Mathematics;
 using System;
@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using static OpenTK.Graphics.OpenGL.GL;
 
-namespace MarkosGameEngine.Graphics.Terrain
+namespace MVGE.Graphics.Terrain
 {
     internal class MeshRender
     {

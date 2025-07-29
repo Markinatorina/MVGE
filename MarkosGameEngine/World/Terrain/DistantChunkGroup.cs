@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MarkosGameEngine.World.Terrain
+namespace MVGE.World.Terrain
 {
     internal class DistantChunkGroup
     {

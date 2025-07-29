@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MarkosGameEngine.Gameplay
+namespace MVGE.Gameplay
 {
     public enum PlayerState
     {

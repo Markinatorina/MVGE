@@ -1,5 +1,5 @@
-﻿using MarkosGameEngine.Graphics.Terrain;
-using MarkosGameEngine.World.Terrain;
+﻿using MVGE.Graphics.Terrain;
+using MVGE.World.Terrain;
 using OpenTK.Graphics.OpenGL4;
 using OpenTK.Mathematics;
 using StbImageSharp;
@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MarkosGameEngine.Graphics
+namespace MVGE.Graphics
 {
     internal class BlockTextureAtlas
     {

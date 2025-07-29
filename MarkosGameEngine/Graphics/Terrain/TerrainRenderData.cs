@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MarkosGameEngine.Graphics.Terrain
+namespace MVGE.Graphics.Terrain
 {
     public enum Faces : byte
     {

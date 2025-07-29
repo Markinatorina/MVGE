@@ -1,8 +1,8 @@
-﻿using MarkosGameEngine.Gameplay;
-using MarkosGameEngine.Graphics;
-using MarkosGameEngine.Graphics.Terrain;
-using MarkosGameEngine.World;
-using MarkosGameEngine.World.Terrain;
+﻿using MVGE.Gameplay;
+using MVGE.Graphics;
+using MVGE.Graphics.Terrain;
+using MVGE.World;
+using MVGE.World.Terrain;
 using OpenTK.Graphics.OpenGL4;
 using OpenTK.Mathematics;
 using OpenTK.Windowing.Common;
@@ -15,7 +15,7 @@ using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MarkosGameEngine
+namespace MVGE
 {
     public enum GameMode
     {
